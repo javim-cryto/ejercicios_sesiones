@@ -1,0 +1,16 @@
+/                   OK
+  /api              OK
+    GET /           404
+    /v1             OK
+      GET /         404
+      /users        OK
+        GET /       OK
+        POST /      OK
+      /payments     OK
+        GET /       OK
+    /v2             OK
+      GET /         404
+      /users        OK
+        GET /       OK
+      /payments     OK
+        GET /       OK
