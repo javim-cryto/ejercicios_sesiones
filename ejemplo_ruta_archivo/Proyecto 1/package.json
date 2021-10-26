@@ -1,0 +1,6 @@
+{
+  "name": "Proyecto 1",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
