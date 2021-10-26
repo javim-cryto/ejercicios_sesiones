@@ -1,0 +1,19 @@
+{
+  "name": "evidencias",
+  "version": "1.0.0",
+  "description": "Ejercicios de la sesión 4",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "author": "Gabriela Ortega",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
