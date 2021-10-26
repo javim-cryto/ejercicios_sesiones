@@ -1,0 +1,12 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "inquirer-date-prompt": "^2.0.1",
+    "inquirer-datepicker-prompt": "^0.4.2"
+  }
+}
